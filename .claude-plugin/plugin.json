@@ -1,0 +1,21 @@
+{
+  "name": "trackiq-amazon-restock-priority",
+  "version": "1.0.0",
+  "description": "TrackIQ: Amazon Restock Priority \u2014 an Agent Skill for Amazon sellers, built on TrackIQ MCP data.",
+  "author": {
+    "name": "TrackIQ",
+    "url": "https://trackiq.com"
+  },
+  "homepage": "https://trackiq.com/skills/trackiq-amazon-restock-priority",
+  "repository": "https://github.com/TrackIQ-HQ/trackiq-amazon-restock-priority",
+  "license": "MIT",
+  "keywords": [
+    "amazon",
+    "amazon-seller",
+    "claude-skill",
+    "agent-skills",
+    "mcp",
+    "trackiq",
+    "inventory"
+  ]
+}
