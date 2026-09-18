@@ -4,7 +4,7 @@
   "category": "inventory",
   "version": "1.0.0",
   "updated": "2026-09-18",
-  "summary": "Works out which Amazon products to ship next and in what order \u2014 days of cover at the current sales rate, the date each one runs out, the date a purchase order needed placing to beat it, the revenue exposed if it is late, and a starting shipment quantity per product. Ranked by revenue at risk rather than by days of cover. Use when the user asks about restocking, reordering, replenishment, days of ",
+  "summary": "Works out which Amazon products to ship next and in what order \u2014 days of cover at the current sales rate, the date each one runs out, the date a purchase order needed placing to beat it, the revenue exposed if it is late, and a starting shipment quantity per product. Ranked by revenue at risk rather than by days of cover.",
   "changelog": "First public release.",
   "requires": {
     "mcp": [
